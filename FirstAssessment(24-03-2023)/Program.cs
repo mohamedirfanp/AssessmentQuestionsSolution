@@ -1,4 +1,4 @@
-﻿namespace AssessmentQuestions
+﻿namespace FirstAssessment
 {
 	internal class Program
 	{
